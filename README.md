@@ -1,4 +1,4 @@
-# investment-app
+# Investment-app
 
 
 ## Overview
